@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="true">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/MainToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@color/colorPrimary" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_gravity="center"
+            android:background="@drawable/shadow_90" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_marginTop="60dp" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="36dp"
+            android:background="@drawable/button_fab"
+            android:cropToPadding="false"
+            android:elevation="4dp"
+            android:focusable="false"
+            android:src="@drawable/ic_receipt_white_24dp" />
+
+    </FrameLayout>
+</LinearLayout>

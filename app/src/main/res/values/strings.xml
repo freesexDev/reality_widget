@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reality Виджет</string>
+    <string name="already">УЖЕ</string>
+    <string name="doing">А ТЫ\nНИЧЕГО\nНЕ\nСДЕЛАЛ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="title_activity_choose">ChooseActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="appwidget_text"></string>
+    <!--OPA, memes-->
+    <string name="wp1">А ТЫ\nСИДИШЬ\nДОМА</string>
+    <string name="wp2">МОЖЕТ\nПОРА УЖЕ\nПЕРЕСТАТЬ\nСМОТРЕТЬ\nСЮДА?</string>
+    <string name="wp3">А ТЫ\nЕЩЁ\nНЕ ПОМОГ\nМАМКЕ</string>
+    <string name="wp4">ЕСТЬ ВЕРОЯТНОСТЬ,\nЧТО У\nТЕБЯ\nБУДЕТ\nСЕКС</string>
+    <string name="wp5">ИДИ ДОМОЙ,\nАЛКОГОЛИК</string>
+    <string name="wp6">А У ТЕБЯ\nВСЁ-ЕЩЁ\nНЕТУ\nДЕВУШКИ</string>
+    <string name="wp7">А ТЫ\nЕЩЁ\nВ\nАРМИИ\</string>
+    <string name="wp8">А 2007-Й\nНЕ\nВЕРНУТЬ</string>
+    <string name="wp9">ГО\nВ\nДОТКУ?</string>
+    <string name="wp10">А ТЫ\nЕЩЁ НЕ\nДЕГРАДИРОВАЛ((0</string>
+    <string name="configure">Configure</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4962080798762668/7500165838</string>
+</resources>
