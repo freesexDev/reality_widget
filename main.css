@@ -106,6 +106,7 @@ div.img a:hover img {
 }
 
 div.desc {
+    color: #FFFFFF;
     text-align: center;
     font-weight: normal;
     width: 120px;
