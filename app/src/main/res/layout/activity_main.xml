@@ -6,6 +6,7 @@
     tools:context=".MainActivity">
 
     <android.support.v7.widget.Toolbar
+        android:paddingTop="25dp"
         android:id="@+id/MainToolbar"
         android:layout_width="match_parent"
         android:layout_height="60dp"
