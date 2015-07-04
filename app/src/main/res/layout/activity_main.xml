@@ -6,12 +6,12 @@
     tools:context=".MainActivity">
 
     <android.support.v7.widget.Toolbar
-        android:paddingTop="25dp"
         android:id="@+id/MainToolbar"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:background="@color/colorPrimary"
         android:focusableInTouchMode="false"
+        android:paddingTop="25dp"
         app:theme="@style/AppTheme.Toolbar" />
 
     <FrameLayout
@@ -61,16 +61,15 @@
             </HorizontalScrollView>
         </LinearLayout>
 
-        <ImageButton
-            android:id="@+id/imageButton"
-            android:layout_width="56dp"
-            android:layout_height="56dp"
-            android:layout_gravity="right|center_vertical"
-            android:layout_marginRight="8dp"
-            android:background="@drawable/button_fab"
-            android:elevation="4dp"
+        <android.support.design.widget.FloatingActionButton xmlns:d="http://schemas.android.com/apk/res-auto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"
+            android:layout_marginRight="16dp"
             android:onClick="showPopUp"
-            android:src="@drawable/ic_receipt_white_24dp" />
+            android:src="@drawable/ic_receipt_white_24dp"
+            d:borderWidth="0dp"
+            d:elevation="6dp" />
 
     </FrameLayout>
 
