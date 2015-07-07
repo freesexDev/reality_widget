@@ -1,17 +1,21 @@
 h1 {
+
     color: black;
 }
 
 body {
+
     padding-left: 50px;
     padding-right: 50px;
     background-color: white;
 }
 p.white {
+
     color: white;
     text-decoration-color: white;
 }
 text.white {
+
     color: #fff;
 }
 p.card {

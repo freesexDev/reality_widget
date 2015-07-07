@@ -5563,7 +5563,8 @@ small {
     .card.medium .card-image {
       height: 250px; }
     .card.medium .card-content {
-      height: 150px; }
+      width: 512px;
+      height: 512px; }
   .card.large {
     height: 500px; }
     .card.large .card-image {
