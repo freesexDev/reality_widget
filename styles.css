@@ -15,10 +15,6 @@ text.white {
     color: #fff;
 }
 p.card {
-    width: 512px;
-    height: 512px;
-    max-width: 512px;
-    max-height: 512px;
-    min-width: inherit;
-    min-height: inherit;
+    padding: 20px;
+
 }
