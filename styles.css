@@ -17,3 +17,6 @@ p.white {
     color: white;
     text-decoration-color: white;
 }
+text.white {
+    color: #fff;
+}
