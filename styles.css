@@ -7,11 +7,6 @@ body {
     padding-right: 50px;
     background-color: white;
 }
-
-p {
-    align-content: center;
-    align-items: center;
-    vertical-align: middle;
 }
 p.white {
     color: white;
