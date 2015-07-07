@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+}
+
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
+
+p {
+    align-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+p.white {
+    color: white;
+    text-decoration-color: white;
+}
