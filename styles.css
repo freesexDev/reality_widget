@@ -2,9 +2,12 @@ h1 {
 
     color: black;
 }
+ html {
+    font-family: sans-serif;
+  }
 
 body {
-
+    align-items: center;
     padding-left: 50px;
     padding-right: 50px;
     background-color: white;
@@ -29,4 +32,29 @@ img.screenView.ko12 {
 
     width: 256px;
     height: 150px;
+}
+
+img.blog {
+    align-self: center;
+}
+.card.blog {
+    width: 100%;
+}
+.table {
+    width: 100%;
+    display: table;
+}
+.cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+.margin {
+    margin: 20px;
+}
+.unmargin {
+    margin-left: -30px;
+    margin-right: -30px;
+}
+margin-logo {
+    padding-left: 20px;
 }
