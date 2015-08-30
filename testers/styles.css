@@ -1,0 +1,17 @@
+body {
+    background-color: #fff;
+}
+
+.toolbar {
+    -webkit-box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.22);
+    -moz-box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.22);
+    box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.22);
+    min-height: 56px;
+    max-height: 56px;
+/*
+    border-radius: 2px 2px 2px 2px;
+    -moz-border-radius: 2px 2px 2px 2px;
+    -webkit-border-radius: 2px 2px 2px 2px;
+    border: 0px outset #000000;
+*/
+}
